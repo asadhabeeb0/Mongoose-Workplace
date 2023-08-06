@@ -1,0 +1,16 @@
+{
+  "name": "mongoosebyasad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.11.1",
+    "validator": "^13.9.0"
+  },
+  "description": ""
+}
